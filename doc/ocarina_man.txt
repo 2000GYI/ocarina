@@ -10,7 +10,7 @@ Usage: ocarina [switches] <aadl_files>
  -f                   Parse predefined non-standard property sets
  -disable-annexes=ARG Deactivate annex ARG
  -r ARG               Use ARG as root system
- -o ARG               Specify output file/directory
+ -o ARG               Specify output directory
  -y                   Automatically load AADL files
  -I ARG               Add ARG to the directory search list
  -p                   Parse and instantiate the model
